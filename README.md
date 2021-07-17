@@ -1,4 +1,6 @@
-# senai-uc08-doacao-sangue-tabela
+# SA1 - Atividade 3 - Presencial - Uso de tabelas e vídeos
+
+[Visualizar](https://admiring-ardinghelli-29a0b7.netlify.app/)
 
 Requisitos:
 - CSS externo. (estilo.css)
